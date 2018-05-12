@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2534
     wikipedia: http://en.wikipedia.org/wiki/Sara_Ware_Bassett
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18902#Flood-Tide
 gutenberg_issued: '2006-07-23'
 gutenberg_type: Text
 identifiers:
